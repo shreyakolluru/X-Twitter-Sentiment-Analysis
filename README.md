@@ -57,12 +57,14 @@ An enhanced version of BERT with improved training strategies such as dynamic ma
 
 Results
 
-Model	Accuracy (%)	Dataset Size
-SVM	85.47	162,981
-Naive Bayes	74.25	162,981
-LSTM (20 epochs)	83.71	14,000
-BERT (3 epochs)	97.61	162,981
-RoBERTa (3 epochs)	94.19	162,981
+| Model                  | Accuracy (%) | Dataset Size |
+|-------------------------|--------------|--------------|
+| SVM                     | 85.47        | 162,981      |
+| Naive Bayes             | 74.25        | 162,981      |
+| LSTM (20 epochs)        | 83.71        | 14,000       |
+| BERT (3 epochs)         | 97.61        | 162,981      |
+| RoBERTa (3 epochs)      | 94.19        | 162,981      |
+
 
 Conclusion
 BERT demonstrated outstanding performance and remains the most reliable model among all tested.
